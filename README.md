@@ -209,4 +209,4 @@ Free Chess is offered as a **full free version** with all features and updates i
 Ready to start playing? Download **Free Chess** now and experience the thrill of this classic game for yourself!
 
 ---
-**Last updated:** 2026-11-01 08:26:25 UTC
+**Last updated:** 2026-11-01 15:36:24 UTC
